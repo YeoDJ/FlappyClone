@@ -10,10 +10,4 @@ public class CurrentScore : MonoBehaviour
     {
         GetComponent<Text>().text = "Score: " + Score.score.ToString();
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 }
