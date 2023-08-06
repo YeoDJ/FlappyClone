@@ -532,6 +532,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # gitar
+.vscode/
 *BurstDebugInformation_DoNotShip/
 *.keystore
 
